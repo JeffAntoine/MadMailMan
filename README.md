@@ -24,7 +24,7 @@ go ahead and pull and help us out anyway you see fit
 
 ### Authors
 
-* **Jeffrey Antoine** - *Initial work* - [Jeff](https://github.com/PurpleBooth)
+* **Jeffrey Antoine** - *Initial work* - [Jeff](https://github.com/JeffAntoine)
 * **Shafeeque Khan** - *Initial work* - [Shafeeque](https://github.com/skhan064)
 
 check out list of contributors for others. (currently none)
